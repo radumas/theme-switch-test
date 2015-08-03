@@ -21,5 +21,5 @@
    git push origin newtheme 
    ```
 6. Go to your project's page on github and you'll notice something like this:  
-   ![](
+   ![](/images/Selection_004.png)
 7. Create a pull-request and merge the new changes in.
