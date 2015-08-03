@@ -1,13 +1,26 @@
 ###########
+<<<<<<< HEAD
 # site.url, site.title
 
 title: 'Jekyll Bootstrap Theme'
+=======
+# site.title, site.url, site.author.name
+
+title:   'Jekyll Minimal Theme'
+author:
+  name:  'Jekyll Minimal Theme Team'
+>>>>>>> 1a56e85ba520d9bdeecc13d0f57d01e7930318c3
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+<<<<<<< HEAD
 path: /jekyll-bootstrap-theme
 url:  'http://drjekyllthemes.github.io/jekyll-bootstrap-theme'
+=======
+path: /jekyll-minimal-theme  
+url:  'http://drjekyllthemes.github.io/jekyll-minimal-theme'
+>>>>>>> 1a56e85ba520d9bdeecc13d0f57d01e7930318c3
 
 
 ########
@@ -19,7 +32,11 @@ sass:
   sass_dir: css
   style:    expanded
 
+<<<<<<< HEAD
 
+=======
+permalink: /:title.html
+>>>>>>> 1a56e85ba520d9bdeecc13d0f57d01e7930318c3
 
 exclude:
 - README.md
